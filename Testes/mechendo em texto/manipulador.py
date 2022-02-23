@@ -1,0 +1,1 @@
+open("texto.txt", "r")

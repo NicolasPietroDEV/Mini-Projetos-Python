@@ -1,0 +1,8 @@
+textoinicial = input("Texto original:")
+partelocalizar = input("Localizar: ")
+partesubst = input("Substituir: ")
+textofinal = textoinicial.replace(partelocalizar, partesubst) 
+print("Resultado:")
+print(textofinal)
+print("")
+input("Enter para finalizar")

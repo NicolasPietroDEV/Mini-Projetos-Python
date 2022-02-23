@@ -1,0 +1,10 @@
+Escreva tudo que se pede;
+Não dê enter sem escrever nada;
+Na parte de paradas, escreva o número de paradas que você possui e o codigo irá disponibilizar o número de espaços para você escrever as horas e os minutos de cada parada.
+Exemplo: 2 paradas:
+
+Horas:
+Minutos:
+
+Horas:
+Minutos: 
